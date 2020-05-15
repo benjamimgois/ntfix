@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=NTfix
+GenericName=NTFS fix for proton
+Comment= Fix the problem of proton Games won't running on NTFS partitions
+Exec=ntfix
+Icon=ntfix48
+Terminal=false
+Type=Application
+Categories=Graphics;
+Keywords=ntfs;proton;
