@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>io.github.benjamimgois.ntfix</id>
+  
+  <name>NTfix</name>
+  <summary>Program to fix the problem of proton Games won't running on NTFS partitions</summary>
+  
+  <metadata_license>FSFAP</metadata_license>
+  <project_license>GPL-3.0-or-later</project_license>
+  
+  <description>
+    <p>
+      NTfix is program to fix the problem of proton Games won't running on NTFS partitions
+    </p>
+  </description>
+  
+  <launchable type="desktop-id">ntfix.desktop</launchable>
+  <screenshots>
+    <screenshot type="default">
+      <caption>Options for ntfix</caption>
+      <image>https://i.ibb.co/W2Yt0kD/ntfix-02.png</image>
+    </screenshot>
+
+  
+  <url type="homepage">https://github.com/benjamimgois/ntfix</url>
+  <url type="bugtracker">https://github.com/benjamimgois/ntfix/issues</url>
+</component>
