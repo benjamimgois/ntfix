@@ -78,10 +78,6 @@ end;
 
 procedure TntfixForm.fixBitBtnClick(Sender: TObject);
 begin
-  //Create temporary folder for ntfix
-  RunCommand('bash -c ''mkdir -p /tmp/ntfix/''', s);
-
-
   //Store paths in variables
   ntfsfolder := ntfsEdit.Text;
   ext4folder := ext4Edit.Text;
@@ -157,8 +153,11 @@ begin
   Left:=(Screen.Width-Width)  div 2;
   Top:=(Screen.Height-Height) div 2;
 
+  //Create temporary folder for ntfix
+  RunCommand('bash -c ''mkdir -p /tmp/ntfix/''', s);
+
   //Create NTfix folder on home
-  RunCommand('bash -c ''mkdir -p $HOME/NTfix/steamapps/compatdata''', s);
+  //RunCommand('bash -c ''mkdir -p $HOME/NTfix/steamapps/compatdata''', s);
 
 
 

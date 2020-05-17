@@ -1,10 +1,10 @@
 object ntfixForm: TntfixForm
-  Left = 1674
+  Left = 1973
   Height = 171
-  Top = 324
+  Top = 197
   Width = 859
   BorderStyle = bsSingle
-  Caption = 'NTfix - 0.2 (beta)'
+  Caption = 'NTfix - 0.2.1 (beta)'
   ClientHeight = 171
   ClientWidth = 859
   Color = 3684408

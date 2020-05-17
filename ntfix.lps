@@ -19,8 +19,8 @@
         <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="65"/>
-        <CursorPos X="18" Y="76"/>
+        <TopLine Value="150"/>
+        <CursorPos X="5" Y="160"/>
         <UsageCount Value="26"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
@@ -66,123 +66,123 @@
     <JumpHistory Count="30" HistoryIndex="29">
       <Position1>
         <Filename Value="ntfixunit.pas"/>
-        <Caret Line="42" TopLine="18"/>
+        <Caret Line="59" Column="37" TopLine="33"/>
       </Position1>
       <Position2>
         <Filename Value="ntfixunit.pas"/>
-        <Caret Line="50" Column="7" TopLine="24"/>
+        <Caret Line="66" Column="37" TopLine="38"/>
       </Position2>
       <Position3>
         <Filename Value="ntfixunit.pas"/>
-        <Caret Line="57" Column="37" TopLine="31"/>
+        <Caret Line="92" TopLine="64"/>
       </Position3>
       <Position4>
         <Filename Value="ntfixunit.pas"/>
-        <Caret Line="59" Column="37" TopLine="33"/>
+        <Caret Line="8" Column="30"/>
       </Position4>
       <Position5>
         <Filename Value="ntfixunit.pas"/>
-        <Caret Line="66" Column="37" TopLine="38"/>
+        <Caret Line="41" Column="26" TopLine="22"/>
       </Position5>
       <Position6>
         <Filename Value="ntfixunit.pas"/>
-        <Caret Line="92" TopLine="64"/>
+        <Caret Line="78" Column="61" TopLine="65"/>
       </Position6>
       <Position7>
         <Filename Value="ntfixunit.pas"/>
-        <Caret Line="8" Column="30"/>
+        <Caret Line="65" Column="6" TopLine="54"/>
       </Position7>
       <Position8>
         <Filename Value="ntfixunit.pas"/>
-        <Caret Line="41" Column="26" TopLine="22"/>
+        <Caret Line="158" Column="15" TopLine="133"/>
       </Position8>
       <Position9>
         <Filename Value="ntfixunit.pas"/>
-        <Caret Line="78" Column="61" TopLine="65"/>
+        <Caret Line="153" Column="23" TopLine="136"/>
       </Position9>
       <Position10>
         <Filename Value="ntfixunit.pas"/>
-        <Caret Line="65" Column="6" TopLine="54"/>
+        <Caret Line="159" Column="2" TopLine="37"/>
       </Position10>
       <Position11>
         <Filename Value="ntfixunit.pas"/>
-        <Caret Line="158" Column="15" TopLine="133"/>
+        <Caret Line="160" Column="54" TopLine="138"/>
       </Position11>
       <Position12>
-        <Filename Value="ntfixunit.pas"/>
-        <Caret Line="153" Column="23" TopLine="136"/>
+        <Filename Value="ntfix.lpr"/>
+        <Caret Line="21"/>
       </Position12>
       <Position13>
         <Filename Value="ntfixunit.pas"/>
-        <Caret Line="159" Column="2" TopLine="37"/>
+        <Caret Line="160" Column="54" TopLine="138"/>
       </Position13>
       <Position14>
         <Filename Value="ntfixunit.pas"/>
-        <Caret Line="160" Column="54" TopLine="138"/>
+        <Caret Line="68" Column="81" TopLine="55"/>
       </Position14>
       <Position15>
-        <Filename Value="ntfix.lpr"/>
-        <Caret Line="21"/>
+        <Filename Value="ntfixunit.pas"/>
+        <Caret Line="69" Column="81" TopLine="56"/>
       </Position15>
       <Position16>
         <Filename Value="ntfixunit.pas"/>
-        <Caret Line="160" Column="54" TopLine="138"/>
+        <Caret Line="138" Column="25" TopLine="121"/>
       </Position16>
       <Position17>
         <Filename Value="ntfixunit.pas"/>
-        <Caret Line="68" Column="81" TopLine="55"/>
+        <Caret Line="8" Column="94"/>
       </Position17>
       <Position18>
         <Filename Value="ntfixunit.pas"/>
-        <Caret Line="69" Column="81" TopLine="56"/>
+        <Caret Line="76" Column="18" TopLine="74"/>
       </Position18>
       <Position19>
-        <Filename Value="ntfixunit.pas"/>
-        <Caret Line="138" Column="25" TopLine="121"/>
+        <Filename Value="aboutunit.pas"/>
+        <Caret Line="108" Column="22" TopLine="103"/>
       </Position19>
       <Position20>
         <Filename Value="ntfixunit.pas"/>
-        <Caret Line="8" Column="94"/>
+        <Caret Line="76" Column="18" TopLine="65"/>
       </Position20>
       <Position21>
-        <Filename Value="ntfixunit.pas"/>
-        <Caret Line="76" Column="18" TopLine="74"/>
+        <Filename Value="aboutunit.pas"/>
+        <Caret Line="108" Column="13" TopLine="103"/>
       </Position21>
       <Position22>
         <Filename Value="aboutunit.pas"/>
-        <Caret Line="108" Column="22" TopLine="103"/>
+        <Caret Line="107" Column="13" TopLine="102"/>
       </Position22>
       <Position23>
-        <Filename Value="ntfixunit.pas"/>
-        <Caret Line="76" Column="18" TopLine="65"/>
+        <Filename Value="aboutunit.pas"/>
+        <Caret Line="106" Column="13" TopLine="101"/>
       </Position23>
       <Position24>
         <Filename Value="aboutunit.pas"/>
-        <Caret Line="108" Column="13" TopLine="103"/>
+        <Caret Line="105" Column="13" TopLine="100"/>
       </Position24>
       <Position25>
         <Filename Value="aboutunit.pas"/>
-        <Caret Line="107" Column="13" TopLine="102"/>
+        <Caret Line="104" Column="13" TopLine="99"/>
       </Position25>
       <Position26>
         <Filename Value="aboutunit.pas"/>
-        <Caret Line="106" Column="13" TopLine="101"/>
+        <Caret Line="103" Column="13" TopLine="98"/>
       </Position26>
       <Position27>
         <Filename Value="aboutunit.pas"/>
-        <Caret Line="105" Column="13" TopLine="100"/>
+        <Caret Line="102" Column="13" TopLine="97"/>
       </Position27>
       <Position28>
-        <Filename Value="aboutunit.pas"/>
-        <Caret Line="104" Column="13" TopLine="99"/>
+        <Filename Value="ntfixunit.pas"/>
+        <Caret Line="34" Column="44" TopLine="30"/>
       </Position28>
       <Position29>
-        <Filename Value="aboutunit.pas"/>
-        <Caret Line="103" Column="13" TopLine="98"/>
+        <Filename Value="ntfixunit.pas"/>
+        <Caret Line="164" Column="51" TopLine="153"/>
       </Position29>
       <Position30>
-        <Filename Value="aboutunit.pas"/>
-        <Caret Line="102" Column="13" TopLine="97"/>
+        <Filename Value="ntfixunit.pas"/>
+        <Caret Line="81" TopLine="68"/>
       </Position30>
     </JumpHistory>
     <RunParams>
