@@ -8,6 +8,9 @@ NTfix is a small program to fix the problem of proton Games won't running on NTF
 <a href="https://ibb.co/d5zgtPb"><img src="https://i.ibb.co/W2Yt0kD/ntfix-02.png" alt="ntfix-02" border="0"></a>
 
 
+## Demo
+
+[![Video demo](https://yt-embed.herokuapp.com/embed?v=0EoLQy4eKhs)](https://www.youtube.com/watch?v=0EoLQy4eKhs "NTfix Demonstration")
 
 ## Installation 
 
