@@ -30,7 +30,7 @@ pamac install ntfix-git
 ```
 
 You can also install the binary package from [`chaotic-AUR`](http://lonewolf-builder.duckdns.org/chaotic-aur) (unofficial Arch repo).
-```
+
 
 
 ## Tarball
@@ -63,7 +63,7 @@ To build NTfix, clone the git repository by running following command:
 
 ```bash
 git clone https://github.com/benjamimgois/ntfix.git
-
+```
 
 
 Then, change directory and build ntfix by running the following commands:
