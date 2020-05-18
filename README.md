@@ -82,6 +82,12 @@ To run ntfix, run the following command:
 ./ntfix
 ```
 
+#### Lazarus
+
+This project was built using [Lazarus](https://github.com/graemeg/lazarus).
+
+[![lazarus-ide](https://i.ibb.co/9ykXNtw/Laz-banner.png)](https://www.lazarus-ide.org/)
+
 
 ## Donations
 
