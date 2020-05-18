@@ -18,15 +18,18 @@ NTfix is a small program to fix the problem of proton Games won't running on NTF
 
 #### Arch / Manjaro / Other Arch derivatives
 
-Install it from the AUR [`ntfix-git`](https://aur.archlinux.org/packages/ntfix-git//) (need to download Lazarus and all compilation packages) or from the [`chaotic-AUR`](http://lonewolf-builder.duckdns.org/chaotic-aur) (download just the latest binary binary). Run the following command as root:
+Install the development package from the AUR [`ntfix-git`](https://aur.archlinux.org/packages/ntfix-git/). You can use an AUR Helper like `yay` or `pamac`:
 
 ```bash
-pacman -S ntfix-git
+yay -S ntfix-git
 ```
 or
 
 ```bash
 pamac install ntfix-git
+```
+
+You can also install the binary package from [`chaotic-AUR`](http://lonewolf-builder.duckdns.org/chaotic-aur) (unofficial Arch repo).
 ```
 
 
